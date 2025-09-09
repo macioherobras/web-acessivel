@@ -4,7 +4,8 @@
 Site simples, implementando recursos de acessibilidade com html, css e javascript
 
 ## Preview do Projeto
-(img/home.png)
+(inicio.png)
+(mais um pouco.png)
 ## Tecnologias
 - HTML
 - CSS
