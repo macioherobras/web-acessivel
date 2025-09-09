@@ -1,14 +1,16 @@
-# Web Acessível — melhorando a experiência do usuário
+# Web Acessível — Melhorando a experiência do usuário
 
-## 🎯 Objetivo
-Demonstrar, de forma simples, como aplicar recursos de acessibilidade em um site estático: semântica correta, navegação por teclado, controle de contraste e ajuste de fonte.
+## Sobre
+Site simples, implementando recursos de acessibilidade com html, css e javascript
 
-## 🧩 Tecnologias
+## Preview do Projeto
+(img/home.png)
+## Tecnologias
 - HTML
 - CSS
 - JavaScript
 
-## 📁 Estrutura
+## Estrutura
 ```
 /
 ├─ index.html
