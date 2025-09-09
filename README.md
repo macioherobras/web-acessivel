@@ -1,7 +1,5 @@
 # Web Acessível — melhorando a experiência do usuário
 
-Este repositório contém um site **autorais** criado para o curso **Acessibilidade Web: melhorando a experiência do usuário**. É **diferente** do projeto de referência, porém mantém o foco em boas práticas de A11y.
-
 ## 🎯 Objetivo
 Demonstrar, de forma simples, como aplicar recursos de acessibilidade em um site estático: semântica correta, navegação por teclado, controle de contraste e ajuste de fonte.
 
@@ -34,10 +32,3 @@ Demonstrar, de forma simples, como aplicar recursos de acessibilidade em um site
 ├─ script.js
 └─ img/
 ```
-
-## 🔒 Licença
-Código e SVGs deste projeto são autorais e podem ser usados livremente para fins educacionais (MIT).
-
----
-
-Se quiser mudar o tema visual, abra `styles.css` e ajuste as variáveis em `:root`. 
